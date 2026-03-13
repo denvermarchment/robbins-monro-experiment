@@ -1,1 +1,1 @@
-Hello, World!
+The Robbins-Monro algorithm provides a method for finding roots of regression functions under mild conditions. One condition is that the regression function has a unique root; we numerically investigate what happens when the regression function has multiple roots
